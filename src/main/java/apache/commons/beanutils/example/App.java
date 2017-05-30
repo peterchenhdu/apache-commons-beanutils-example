@@ -3,7 +3,7 @@ package apache.commons.beanutils.example;
 /**
  * App
  * 
- * @author    PiChen
+ * @author    http://www.cnblogs.com/chenpi/
  * @version   2017年5月29日
  */
 public class App

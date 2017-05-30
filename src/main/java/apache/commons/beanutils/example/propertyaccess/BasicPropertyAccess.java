@@ -1,7 +1,7 @@
 /*
  * File Name: Main.java
  * Description: 
- * Author: PiChen
+ * Author: http://www.cnblogs.com/chenpi/
  * Create Date: 2017年5月29日
  */
 package apache.commons.beanutils.example.propertyaccess;
@@ -14,7 +14,7 @@ import apache.commons.beanutils.example.pojo.Employee;
 
 /**
  * 
- * @author PiChen
+ * @author http://www.cnblogs.com/chenpi/
  * @version 2017年5月29日
  */
 

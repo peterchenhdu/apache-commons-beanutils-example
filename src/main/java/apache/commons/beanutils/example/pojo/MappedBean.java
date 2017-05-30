@@ -1,7 +1,7 @@
 /*
  * File Name: MappedBean.java
  * Description: 
- * Author: PiChen
+ * Author: http://www.cnblogs.com/chenpi/
  * Create Date: 2017年5月29日
  */
 package apache.commons.beanutils.example.pojo;
@@ -10,7 +10,7 @@ import java.util.Map;
 
 /**
  * 
- * @author    PiChen
+ * @author    http://www.cnblogs.com/chenpi/
  * @version   2017年5月29日
  */
 

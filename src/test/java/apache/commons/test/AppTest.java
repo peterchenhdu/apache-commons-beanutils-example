@@ -1,7 +1,7 @@
 /*
  * File Name: AppTest.java
  * Description: 
- * Author: PiChen
+ * Author: http://www.cnblogs.com/chenpi/
  * Create Date: 2017年5月8日
  */
 package apache.commons.test;
@@ -16,7 +16,7 @@ import org.junit.Test;
 
 /**
  * 
- * @author PiChen
+ * @author http://www.cnblogs.com/chenpi/
  * @version 2017年5月8日
  */
 
