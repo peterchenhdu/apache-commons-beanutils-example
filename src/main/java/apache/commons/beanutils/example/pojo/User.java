@@ -8,8 +8,8 @@ package apache.commons.beanutils.example.pojo;
 
 /**
  * 
- * @author    http://www.cnblogs.com/chenpi/
- * @version   2017年5月30日
+ * @author http://www.cnblogs.com/chenpi/
+ * @version 2017年5月30日
  */
 
 public class User
@@ -18,6 +18,8 @@ public class User
     private String name;
     private String address;
     private boolean state;
+
+    
     /**
      * @return the id
      */
@@ -25,6 +27,7 @@ public class User
     {
         return id;
     }
+
     /**
      * @param id the id to set
      */
@@ -32,6 +35,7 @@ public class User
     {
         this.id = id;
     }
+
     /**
      * @return the name
      */
@@ -39,6 +43,7 @@ public class User
     {
         return name;
     }
+
     /**
      * @param name the name to set
      */
@@ -46,6 +51,7 @@ public class User
     {
         this.name = name;
     }
+
     /**
      * @return the address
      */
@@ -53,6 +59,7 @@ public class User
     {
         return address;
     }
+
     /**
      * @param address the address to set
      */
@@ -60,6 +67,7 @@ public class User
     {
         this.address = address;
     }
+
     /**
      * @return the state
      */
@@ -67,12 +75,26 @@ public class User
     {
         return state;
     }
+
     /**
      * @param state the state to set
      */
     public void setState(boolean state)
     {
         this.state = state;
+    }
+
+    /**
+     * 
+     * 
+     * @see java.lang.Object#toString()
+     * @return
+     */
+    @Override
+    public String toString()
+    {
+
+        return id + "," + name + "," + address + "," + state;
     }
 
 }
